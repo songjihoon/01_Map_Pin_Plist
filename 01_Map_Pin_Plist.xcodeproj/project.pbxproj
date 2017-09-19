@@ -12,6 +12,9 @@
 		F55BFBF91F70B63B00F6E51F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F55BFBF71F70B63B00F6E51F /* Main.storyboard */; };
 		F55BFBFB1F70B63B00F6E51F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F55BFBFA1F70B63B00F6E51F /* Assets.xcassets */; };
 		F55BFBFE1F70B63B00F6E51F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F55BFBFC1F70B63B00F6E51F /* LaunchScreen.storyboard */; };
+		F55BFC081F70B9E000F6E51F /* ViewPoint.plist in Resources */ = {isa = PBXBuildFile; fileRef = F55BFC051F70B9E000F6E51F /* ViewPoint.plist */; };
+		F55BFC091F70B9E000F6E51F /* ViewPoint2.plist in Resources */ = {isa = PBXBuildFile; fileRef = F55BFC061F70B9E000F6E51F /* ViewPoint2.plist */; };
+		F55BFC0A1F70B9E000F6E51F /* ViewPoint3.plist in Resources */ = {isa = PBXBuildFile; fileRef = F55BFC071F70B9E000F6E51F /* ViewPoint3.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		F55BFBFA1F70B63B00F6E51F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F55BFBFD1F70B63B00F6E51F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F55BFBFF1F70B63B00F6E51F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F55BFC051F70B9E000F6E51F /* ViewPoint.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ViewPoint.plist; sourceTree = "<group>"; };
+		F55BFC061F70B9E000F6E51F /* ViewPoint2.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ViewPoint2.plist; sourceTree = "<group>"; };
+		F55BFC071F70B9E000F6E51F /* ViewPoint3.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ViewPoint3.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +63,9 @@
 				F55BFBF31F70B63B00F6E51F /* AppDelegate.swift */,
 				F55BFBF51F70B63B00F6E51F /* ViewController.swift */,
 				F55BFBF71F70B63B00F6E51F /* Main.storyboard */,
+				F55BFC051F70B9E000F6E51F /* ViewPoint.plist */,
+				F55BFC061F70B9E000F6E51F /* ViewPoint2.plist */,
+				F55BFC071F70B9E000F6E51F /* ViewPoint3.plist */,
 				F55BFBFA1F70B63B00F6E51F /* Assets.xcassets */,
 				F55BFBFC1F70B63B00F6E51F /* LaunchScreen.storyboard */,
 				F55BFBFF1F70B63B00F6E51F /* Info.plist */,
@@ -125,6 +134,9 @@
 			files = (
 				F55BFBFE1F70B63B00F6E51F /* LaunchScreen.storyboard in Resources */,
 				F55BFBFB1F70B63B00F6E51F /* Assets.xcassets in Resources */,
+				F55BFC0A1F70B9E000F6E51F /* ViewPoint3.plist in Resources */,
+				F55BFC081F70B9E000F6E51F /* ViewPoint.plist in Resources */,
+				F55BFC091F70B9E000F6E51F /* ViewPoint2.plist in Resources */,
 				F55BFBF91F70B63B00F6E51F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
